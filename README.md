@@ -49,10 +49,6 @@ adev-resume-scanner/
 3. **Run the application**:
 
     ```bash
-    # Use the new modular version
-    streamlit run app_new.py
-
-    # Or use the original version
     streamlit run app.py
     ```
 
